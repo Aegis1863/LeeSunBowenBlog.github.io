@@ -1,0 +1,44 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "493429",
+      "name": "计算器",
+      "font_class": "jisuanqi",
+      "unicode": "e79b",
+      "unicode_decimal": 59291
+    },
+    {
+      "icon_id": "9186709",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "e665",
+      "unicode_decimal": 58981
+    },
+    {
+      "icon_id": "9186710",
+      "name": "QQ空间",
+      "font_class": "QQkongjian",
+      "unicode": "e666",
+      "unicode_decimal": 58982
+    },
+    {
+      "icon_id": "9186713",
+      "name": "朋友圈",
+      "font_class": "pengyouquan",
+      "unicode": "e667",
+      "unicode_decimal": 58983
+    },
+    {
+      "icon_id": "9186714",
+      "name": "QQ",
+      "font_class": "QQ",
+      "unicode": "e668",
+      "unicode_decimal": 58984
+    }
+  ]
+}
