@@ -11,6 +11,9 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<link rel="stylesheet" href="font_7xm6yvyhxxn/iconfont.css">
+		<meta itemprop="name" content="Lee's Home page">
+		<meta itemprop="description" content="博闻的个人主页">
+		<meta itemprop="image" content="pic10.jpg">
 	</head>
 	<body class="is-preload">
 
