@@ -13,7 +13,7 @@
 		<link rel="stylesheet" href="font_7xm6yvyhxxn/iconfont.css">
 		<meta itemprop="name" content="Lee's Home page">
 		<meta itemprop="description" content="博闻的个人主页">
-		<meta itemprop="image" content="pic10.jpg">
+		<meta itemprop="image" content="pic12.jpg">
 	</head>
 	<body class="is-preload">
 
@@ -43,7 +43,7 @@
 											<p>一个Python和其他编程语言业余爱好者，也是多媒体创作爱好者，经济金融问题爱好者</p>
 										</header>
 										<mate charset="utf-8"/>
-										<p>&emsp;&emsp;2018年就读于湖北经济学院——金融学院。<br>&emsp;&emsp;自主编写大小python程序37个，其中完整项目4项，主要为爬虫和数据可视化及其结合。<br>&emsp;&emsp;承接多媒体制作编辑业务，有完整多媒体成品9个，其中一项为微电影摄制与后期剪辑、特效，获第六届金飞燕微电影节电影提名。<br>&emsp;&emsp;有两年以上证券投资经验，2019~2020年度担任藏龙投资协会会长一职。</p>
+										<p>&emsp;&emsp;2018年就读于湖北经济学院——金融学院。<br>&emsp;&emsp;自主编写过一些大小python程序，主要为爬虫、数据可视化及其结合，部分较完整的代码项目已上传至GitHub主页供交流学习。<br>&emsp;&emsp;承接多媒体制作编辑业务，有完整多媒体成品9个，其中一项为微电影摄制与后期剪辑、特效，获第六届金飞燕微电影节电影提名。<br>&emsp;&emsp;有两年以上证券投资经验，2019~2020年度担任藏龙投资协会会长一职。</p>
 										<ul class="actions">
 											<li><a href="#" class="button big">Learn More</a></li>
 										</ul>
@@ -229,11 +229,23 @@
 								</section-->
 
 							<!-- Section -->
+
 								<section>
+									<header class="major">
+										<h2>业务承接</h2>
+									</header>
+									<p>可以承接以下项目（需议价，合理报价）：<br>&emsp;&emsp;1. 证券投资技术分析报告或实验 <br>&emsp;&emsp;2.  简单手机APP开发<br>&emsp;&emsp;3. Python脚本开发（抢课，淘宝抢单等） <br>&emsp;&emsp;4. 视频、微电影制作 <br>&emsp;&emsp;5. Python爬虫、可视化实验报告<br>&emsp;&emsp;6.  商业海报制作或人像修图<br>&emsp;&emsp;以上项目均为个人承接制作，不涉及第三方制作组，根据实际情况议价，力求报价合理，可接受。</p>
+
+								</section>
+
+								<section>
+									<header class="major">
+										<h2>交流学习</h2>
+									</header>
+									<p>&emsp;&emsp;若有编程项目交流学习、数学建模或科研项目、多媒体制作合作、经济金融问题讨论、量化投资技术交流等，可通过下面的方式联系我 :-)。</p>
 									<header class="major">
 										<h2>取得联系</h2>
 									</header>
-									<p>&emsp;&emsp;若编程项目交流学习、多媒体制作合作、经济金融问题讨论，数学建模或科研项目等，可通过下面的方式联系我:-)。</p>
 									<ul class="contact">
 										<li class="icon solid fa-envelope"><a href="mailto:1554849150@qq.com">1554849150@qq.com</a></li>
 										<li class="icon solid fa-phone">15623663730</li>
