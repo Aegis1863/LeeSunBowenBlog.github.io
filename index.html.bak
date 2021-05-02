@@ -26,7 +26,7 @@
 
 							<!-- Header -->
 								<header id="header">
-									<a href="index.html" class="logo"><strong>Last modified date</strong> 2020/8/17 </a>
+									<a href="index.html" class="logo"><strong>Last modified date</strong> 2020/11/17 </a>
 									<ul class="icons">
 										<li>QQ空间和QQ（主要联系方式）：</li>
 										<li><a href="https://user.qzone.qq.com/1554849150/main" class="iconfont icon-QQkongjian"><span class="label"></span></a></li>
@@ -43,7 +43,7 @@
 											<p>一个Python和其他编程语言业余爱好者，也是多媒体创作、数学建模、经济金融问题爱好者</p>
 										</header>
 										<mate charset="utf-8"/>
-										<p>&emsp;&emsp;2015至2018年就读于湖北省沙市中学。<br>&emsp;&emsp;2018年就读于湖北经济学院金融学院。<br>&emsp;&emsp;自主编写有大小Python程序，主要为爬虫、数据分析，部分较完整的项目代码项目已上传至GitHub主页供交流学习；在数据分析方面，获有2020年中国大学生数学建模竞赛省一等奖。<br>&emsp;&emsp;承接多媒体制作编辑业务，有部分成果，曾主持微电影摄制与后期剪辑、特效，获第六届金飞燕微电影节电影提名。<br>&emsp;&emsp;有两年以上证券投资经验，2019~2020年度担任藏龙投资协会会长一职。<br>&emsp;&emsp;除专业和基础证书外，持有围棋业余三段证书。</p>
+										<p>&emsp;&emsp;2015至2018年就读于湖北省沙市中学。<br>&emsp;&emsp;2018年就读于湖北经济学院金融学院。<br>&emsp;&emsp;自主编写有爬虫、数据分析、仿真框架等python项目，部分较完整的项目代码项目已上传至GitHub主页供交流学习；曾获2020年高教社杯中国大学生数学建模竞赛省一等奖。<br>&emsp;&emsp;摄影及后期方面有一定经验，有部分成果，曾主持微电影摄制与后期剪辑、特效，获第六届金飞燕微电影节电影提名。<br>&emsp;&emsp;有证券投资经验，2019~2020年度担任藏龙投资协会会长一职。<br>&emsp;&emsp;除专业和基础证书外，持有围棋业余三段证书，部分计算机编程类荣誉证书。</p>
 										<ul class="actions">
 											<li><a href="md_style_index.html" class="button big">点击跳转至MD风格主页</a></li>
 										</ul>
@@ -53,19 +53,6 @@
 									</span>
 								</section>
 								
-								<section>
-									<header class="major">
-										<h2>业务和交流学习</h2>
-									</header>
-									<p>
-										可以承接以下项目：<br>&emsp;&emsp;1. 证券投资技术分析报告或实验 <br>&emsp;&emsp;2.  简单手机APP开发<br>&emsp;&emsp;3. Python脚本开发（抢课，淘宝抢单等） <br>&emsp;&emsp;4. Python爬虫、可视化实验报告、数据分析 <br>&emsp;&emsp;5. 视频、微电影制作<br>&emsp;&emsp;6.  商业海报制作或人像修图<br>&emsp;&emsp;具体信息可打开左侧菜单栏查看
-									</p>
-
-									<p>&emsp;&emsp;若有编程项目交流学习、数学建模或科研项目、多媒体制作合作、经济金融问题讨论、量化投资技术交流、围棋切磋等，可通过QQ联系我，联系方式在左侧菜单栏中  :-)。</p>
-
-								</section>
-
-
 
 							<!-- Section -->
 								<!--section>  <!--改#-->
